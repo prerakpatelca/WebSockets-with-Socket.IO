@@ -19,11 +19,11 @@ Used socket.io to implement both the server and client.
 
 There are two folders one for the client side and other for the server side
 
-	⁃	Client side handles everything on the frontend using Vue.js and server side handles everything on the server side using socket.io
-	⁃	To start the project you need two terminals 
-	⁃	In first terminal point it to the client and give the command “npm start”
-	⁃	In second terminal point it to the server and give the command “node server”
-	⁃	I have also used. Mongodb in my project to take this project to one step further, to store the data of the students participating in the Quiz game
+	- Client side handles everything on the frontend using Vue.js and server side handles everything on the server side using socket.io
+	- To start the project you need two terminals 
+	- In first terminal point it to the client and give the command “npm start”
+	- In second terminal point it to the server and give the command “node server”
+	- I have also used. Mongodb in my project to take this project to one step further, to store the data of the students participating in the Quiz game
 
 As you were the error I investigated and the solution I found was you need to install the mongodb on your Mac.
 
