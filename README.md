@@ -7,6 +7,7 @@ Created a file named server.js to handle WebSocket connections and messages from
 Used socket.io to implement both the server and client.
 
 # Languages and Tools used
+    - VueJS
     - NodeJS
     - Socket.io
     - jQuery
