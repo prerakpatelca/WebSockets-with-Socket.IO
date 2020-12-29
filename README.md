@@ -26,7 +26,6 @@ There are two folders one for the client side and other for the server side
 	- In second terminal point it to the server and give the command “node server”
 	- I have also used. Mongodb in my project to take this project to one step further, to store the data of the students participating in the Quiz game
 
-As you were the error I investigated and the solution I found was you need to install the mongodb on your Mac.
 
 To install Mongodb on your Mac we have to write following code in the terminal
 
