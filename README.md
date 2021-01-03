@@ -47,3 +47,17 @@ And finally we will need Mongodb for the project so
 
 
 Now if you try to run "node server" while pointing to the server folder it will run just fine with no error whatsoever. And if there is any error installing Mongodb you might have to add "sudo" before the code, but as far as I know it will not require.
+
+# Output
+
+![alt text](https://github.com/prerakpatelca/WebSockets-with-Socket.IO/blob/master/Screen%20Shot%202021-01-02%20at%204.56.41%20PM.png)
+![alt text](https://github.com/prerakpatelca/WebSockets-with-Socket.IO/blob/master/Screen%20Shot%202021-01-02%20at%204.57.02%20PM.png)
+![alt text](https://github.com/prerakpatelca/WebSockets-with-Socket.IO/blob/master/Screen%20Shot%202021-01-02%20at%204.57.31%20PM.png)
+![alt text](https://github.com/prerakpatelca/WebSockets-with-Socket.IO/blob/master/Screen%20Shot%202021-01-02%20at%204.58.29%20PM.png)
+![alt text](https://github.com/prerakpatelca/WebSockets-with-Socket.IO/blob/master/Screen%20Shot%202021-01-02%20at%204.59.16%20PM.png)
+![alt text](https://github.com/prerakpatelca/WebSockets-with-Socket.IO/blob/master/Screen%20Shot%202021-01-02%20at%204.59.27%20PM.png)
+![alt text](https://github.com/prerakpatelca/WebSockets-with-Socket.IO/blob/master/Screen%20Shot%202021-01-02%20at%204.59.59%20PM.png)
+![alt text](https://github.com/prerakpatelca/WebSockets-with-Socket.IO/blob/master/Screen%20Shot%202021-01-02%20at%205.05.16%20PM.png)
+![alt text](https://github.com/prerakpatelca/WebSockets-with-Socket.IO/blob/master/Screen%20Shot%202021-01-02%20at%205.05.28%20PM.png)
+![alt text](https://github.com/prerakpatelca/WebSockets-with-Socket.IO/blob/master/Screen%20Shot%202021-01-02%20at%205.05.43%20PM.png)
+![alt text](https://github.com/prerakpatelca/WebSockets-with-Socket.IO/blob/master/Screen%20Shot%202021-01-02%20at%205.06.07%20PM.png)
